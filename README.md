@@ -1,2 +1,7 @@
 # Custom-LS
-A custom wrapper I have made for the command ls
+
+A custom python wrapper I have made for the ls command
+
+## Features:
+
+Refuse to read folders with file .hide in them
