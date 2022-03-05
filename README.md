@@ -11,7 +11,7 @@ So if it were in ~/Downloads and was run while in ~/Pictures, it will display th
 Arguments are the same as ls
 
 ### Running:
-'python main.py'
+`python main.py`
 
 ## Features:
 
