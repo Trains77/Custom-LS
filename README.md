@@ -16,3 +16,7 @@ Arguments are the same as ls
 ## Features:
 
 Refuses to read folders with the file .hide in them, displaying a permission denied error
+
+# Known bugs
+
+Files with spaces in names do not work
