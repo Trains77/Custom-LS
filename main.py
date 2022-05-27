@@ -17,8 +17,6 @@ for i in range(9):
         if not str(ARGS[g]) == '':
             Arg_Path = g
             Use_Arg_Path = True
-# e = str(ARGS[Arg_Path])
-#starts_with_slash = e.startswith("/")
 if Use_Arg_Path  == False:
     if not os.path.exists(".hide"):
         run_ls()
